@@ -401,7 +401,7 @@
         <div class="container">
             <h2 class="section-title">Topics covered in the training</h2>
             <div class="card fade-in delay-1">
-                <h3><u>Linux Topics Covered</u></h3>
+                <h3><u>Linux Topics Covered....</u></h3>
                 <div class="training-sessions">
                     <div class="session-item">Basic Linux commands</div>
                     <div class="session-item">User & Group management</div>
