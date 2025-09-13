@@ -391,7 +391,7 @@
     
     <section class="fade-in">
         <div class="container">
-            <h2 class="section-title">Career Objective</h2>
+            <h2 class="section-title">Career Objective 121212121212</h2>
             <div class="card fade-in delay-1">
                 <p>To leverage my foundational skills in Linux, AWS Cloud, Shell Scripting and Docker to contribute effectively to cloud infrastructure and DevOps projects. Seeking an opportunity to grow my expertise in deploying scalable solutions, automating workflows, and optimizing system performance while delivering secure and efficient cloud-based services.</p>
             </div>
