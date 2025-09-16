@@ -393,7 +393,7 @@
         <div class="container">
             <h2 class="section-title">Career Objective</h2>
             <div class="card fade-in delay-1">
-                <p>To leverage my foundational skills in Linux, AWS Cloud, Shell Scripting and Docker to contribute effectively to cloud infrastructure and DevOps projects. Seeking an opportunity to grow my expertise in deploying scalable solutions, automating workflows, and optimizing system performance while delivering secure and efficient cloud-based services.</p>
+                <p>Enthusiastic Cloud & DevOps fresher with hands-on training in AWS, Docker, Kubernetes, and Jenkins. Looking for an opportunity to contribute in CI/CD automation, cloud infrastructure setup, and deployment of scalable applications.</p>
             </div>
         </div>
     </section>
