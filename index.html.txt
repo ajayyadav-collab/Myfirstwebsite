@@ -402,7 +402,7 @@
         <div class="container">
             <h2 class="section-title">Topics covered in the training</h2>
             <div class="card fade-in delay-1">
-                <h3><u>Linux Topics Covered</u></h3>
+                <h3><u>Linux </u></h3>
                 <div class="training-sessions">
                     <div class="session-item">Basic Linux commands</div>
                     <div class="session-item">User & Group management</div>
@@ -412,7 +412,7 @@
                     <div class="session-item">View running process, Cronjob</div>
                 </div>
                 
-                <h3> <u>AWS Topics Covered</u> </h3>
+                <h3> <u>AWS Cloud</u> </h3>
                 <div class="training-sessions">
                     <div class="session-item">Networking</div>
                     <div class="session-item">Firewall, Firewall commands, logs</div>
@@ -437,7 +437,7 @@
                     <div class="session-item">SNS, CDN, Cloud watch, Billing & Cont management, Cloud front, Edge locations</div>
                 </div>
                 
-                <h3><u>Docker Topics Covered</u></h3>
+                <h3><u>Docker </u></h3>
                 <div class="training-sessions">
                     <div class="session-item">Docker Basic</div>
                     <div class="session-item">Docker commands (run,ps,images,start, stop, attach, exec,logs, commit, stats, save, rm, rmi, load)</div>
@@ -447,7 +447,7 @@
                     <div class="session-item">Docker compose</div>
                 </div>
                 
-                <h3><u> Kubernetes Topics Covered</u></h3>
+                <h3><u> Kubernetes </u></h3>
                 <div class="training-sessions">
                     <div class="session-item">Kubernetes Informations</div>
                     <div class="session-item">Pod creation, Delete</div>
@@ -458,6 +458,28 @@
                     <div class="session-item">Ingress</div>
                     <div class="session-item">Security in Kubernetes, Role & RoleBinding</div>
                     <div class="session-item">ClusterRole, ClusterRoleBinding, Metrix Server, Dashboard</div>
+                </div>
+                <h3><u> Git & Github</u></h3>
+                <div class="training-sessions">
+                    <div class="session-item">Git workflow, git status</div>
+                    <div class="session-item">git add, git commit</div>
+                    <div class="session-item">git log, git branch, git switch</div>
+                    <div class="session-item"> git merge, git fetch, git pull/push </div>
+                    <div class="session-item">Code conflict, gitignore, git revert</div>
+                    <div class="session-item"> git reset, stat, show, patch</div>
+                </div>
+                
+                <h3><u> Jenkins</u></h3>
+                <div class="training-sessions">
+                    <div class="session-item">Jenkins & its installation</div>
+                    <div class="session-item">Actual jenkins uses</div>
+                    <div class="session-item">Apache Maven, Triggers</div>
+                    <div class="session-item"> Tomcat web server & its configuration </div>
+                    <div class="session-item">Deploy on tomcat server</div>
+                    <div class="session-item"> CICD pipeline, Pipeline code</div>
+                    <div class="session-item"> Slave server, Slave node </div>
+                    <div class="session-item"> Security & Roles in Jenkins</div>
+                    <div class="session-item"> User management & permission</div>
                 </div>
                 
             </div>
